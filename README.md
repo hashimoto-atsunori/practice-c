@@ -1,1 +1,2 @@
-# C言語の練習
+# Practice C language
+Happy Hacking !!
