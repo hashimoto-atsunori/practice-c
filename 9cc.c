@@ -22,6 +22,8 @@ struct Token {
   char *str;      // トークン文字列
 };
 
+char *user_input;
+
 // 現在着目しているトークン
 Token *token;
 
